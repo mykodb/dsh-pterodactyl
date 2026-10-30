@@ -35,7 +35,13 @@
         {
           "version": "0.1.6",
           "publishTimestamp": 1793324400,
-          "engines": {}
+          "engines": {},
+          "source": {
+            "type": "git",
+            "url": "https://github.com/mykodb/dsh-pterodactyl.git",
+            "commit": "52120a0ceeecff4edf00c1a9c8604e4bc79534ce"
+          },
+          "commit": "52120a0ceeecff4edf00c1a9c8604e4bc79534ce"
         }
       ]
     }
