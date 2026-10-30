@@ -1,0 +1,6 @@
+- insert:
+    - id: pterodactyl
+      name: 'dsh-pterodactyl'
+      config:
+        baseUrl: ''
+        apiKeyRef: 'PTERODACTYL_API_KEY'

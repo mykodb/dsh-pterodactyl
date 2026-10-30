@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Pterodactyl Panel",
+    "description": "Manage a Pterodactyl panel through agent tools: server status and live resources, power actions, backups and files."
+  }
+}

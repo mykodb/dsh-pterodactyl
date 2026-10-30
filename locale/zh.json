@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Pterodactyl 面板",
+    "description": "用 Agent 工具管理 Pterodactyl 面板：查看服务器与实时资源、执行电源操作、管理备份与文件。"
+  }
+}
