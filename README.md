@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-dsh plugin --profile web add git+https://github.com/mykodb/dsh-pterodactyl.git
+dsh plugin --profile web add dsh-pterodactyl
 ```
 
 `--profile` 必须写在子命令前面。装完**重启 dsh web 进程**，然后到「插件 → Pterodactyl 面板」的详情页填面板地址和 API Key。
